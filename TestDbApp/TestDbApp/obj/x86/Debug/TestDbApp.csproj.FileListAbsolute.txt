@@ -1,0 +1,16 @@
+D:\DEVELOPMENTS\TestKosta\TestDbApp\TestDbApp\bin\x86\Debug\TestDbApp.exe.config
+D:\DEVELOPMENTS\TestKosta\TestDbApp\TestDbApp\bin\x86\Debug\TestDbApp.exe
+D:\DEVELOPMENTS\TestKosta\TestDbApp\TestDbApp\bin\x86\Debug\TestDbApp.pdb
+D:\DEVELOPMENTS\TestKosta\TestDbApp\TestDbApp\bin\x86\Debug\EntityFramework.dll
+D:\DEVELOPMENTS\TestKosta\TestDbApp\TestDbApp\bin\x86\Debug\EntityFramework.SqlServer.dll
+D:\DEVELOPMENTS\TestKosta\TestDbApp\TestDbApp\bin\x86\Debug\EntityFramework.xml
+D:\DEVELOPMENTS\TestKosta\TestDbApp\TestDbApp\bin\x86\Debug\EntityFramework.SqlServer.xml
+D:\DEVELOPMENTS\TestKosta\TestDbApp\TestDbApp\obj\x86\Debug\TestDbApp.MainForm.resources
+D:\DEVELOPMENTS\TestKosta\TestDbApp\TestDbApp\obj\x86\Debug\TestDbApp.Properties.Resources.resources
+D:\DEVELOPMENTS\TestKosta\TestDbApp\TestDbApp\obj\x86\Debug\TestDbApp.csproj.GenerateResource.Cache
+D:\DEVELOPMENTS\TestKosta\TestDbApp\TestDbApp\obj\x86\Debug\TestDbApp.csproj.CoreCompileInputs.cache
+D:\DEVELOPMENTS\TestKosta\TestDbApp\TestDbApp\obj\x86\Debug\TestDbApp.exe
+D:\DEVELOPMENTS\TestKosta\TestDbApp\TestDbApp\obj\x86\Debug\TestDbApp.pdb
+D:\DEVELOPMENTS\TestKosta\TestDbApp\TestDbApp\obj\x86\Debug\TestDbApp.Common.EditControl.resources
+D:\DEVELOPMENTS\TestKosta\TestDbApp\TestDbApp\obj\x86\Debug\TestDbApp.Login.resources
+D:\DEVELOPMENTS\TestKosta\TestDbApp\TestDbApp\obj\x86\Debug\TestDbApp.LogDlg.resources
